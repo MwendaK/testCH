@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://tvprofil.net/xmltv/" source-info-name="Phazer XML servis 4.6" source-info-url="http://tvprofil.net">
+<channel id="htv1.hr">
+<display-name>HTV1</display-name>
+<url>http://www.hrt.hr</url>
+<icon src="http://phazer.info/img/kanali/hrt1.png" />
+</channel>
+<channel id="htv2.hr">
+<display-name>HTV2</display-name>
+<url>http://www.hrt.hr</url>
+<icon src="http://phazer.info/img/kanali/hrt2.png" />
+</channel>
+<channel id="rtl.hr">
+<display-name>RTL</display-name>
+<url>http://www.rtl.hr</url>
+<icon src="http://phazer.info/img/kanali/rtl.jpg" />
+</channel>
+<channel id="nova.hr">
+<display-name>NOVA TV</display-name>
+<url />
+<icon src="http://phazer.info/img/kanali/novatv.jpg" />
+</channel>
+<channel id="htv3.hr">
+<display-name>HTV3</display-name>
+<url>http://www.hrt.hr</url>
+<icon src="http://phazer.info/img/kanali/htv3.jpg" />
+</channel>
+<channel id="htv4.hr">
+<display-name>HTV4</display-name>
+<url>http://www.hrt.hr</url>
+<icon src="http://phazer.info/img/kanali/htv4.jpg" />
+</channel>
+<channel id="rtl2.hr">
+<display-name>RTL2</display-name>
+<url>http://www.rtl2.hr</url>
+<icon src="http://phazer.info/img/kanali/rtl2.jpg" />
+</channel>
+<channel id="doma-tv.hr">
+<display-name>Doma TV</display-name>
+<url />
+<icon src="http://phazer.info/img/kanali/domatv.jpg" />
+</channel>
+<channel id="tv-istra.hr">
+<display-name>TV Istra</display-name>
+<url>http://www.tvistra.hr</url>
+<icon src="http://phazer.info/img/kanali/tv-istra.jpg" />
+</channel>
+<channel id="vinkovacka-tv.hr">
+<display-name>Vinkovačka TV</display-name>
+<url>http://vinkovacka.tv</url>
+<icon src="http://phazer.info/img/kanali/vinkovacka-tv.jpg" />
+</channel>
+<channel id="ftv.ba">
+<display-name>FTV</display-name>
+<url>http://www.federalna.ba/bhs/program</url>
+<icon src="http://phazer.info/img/kanali/ftv.jpg" />
+</channel>
+<channel id="pink-bih.ba">
+<display-name>PINK BH</display-name>
+<url>http://www.pink.co.ba/</url>
+<icon src="http://phazer.info/img/kanali/pink_bh.jpg" />
+</channel>
+<channel id="obn.ba">
+<display-name>OBN</display-name>
+<url>http://www.obn.ba</url>
+<icon src="http://phazer.info/img/kanali/obn.jpg" />
+</channel>
+<channel id="bht1.ba">
+<display-name>BHT1</display-name>
+<url>http://www.bhrt.ba</url>
+<icon src="http://phazer.info/img/kanali/bht1.jpg" />
+</channel>
+<channel id="hayat-tv.ba">
+<display-name>Hayat TV</display-name>
+<url>http://www.hayat.ba</url>
+<icon src="http://phazer.info/img/kanali/hayat-tv.jpg" />
+</channel>
+<channel id="rtrs.ba">
+<display-name>RTRS</display-name>
+<url>http://www.rtrs.tv</url>
+<icon src="http://phazer.info/img/kanali/rtrs.jpg" />
+</channel>
+<channel id="slo1.si">
+<display-name>SLO1</display-name>
+<url>http://www.rtvslo.si</url>
+<icon src="http://phazer.info/img/kanali/slo1.jpg" />
+</channel>
+<channel id="slo2.si">
+<display-name>SLO2</display-name>
+<url>http://www.rtvslo.si</url>
+<icon src="http://phazer.info/img/kanali/slo2.jpg" />
+</channel>
+<channel id="slo3.si">
+<display-name>SLO3</display-name>
+<url>http://www.rtvslo.si</url>
+<icon src="http://phazer.info/img/kanali/slo3.jpg" />
+</channel>
+<channel id="rts1.sr">
+<display-name>RTS1</display-name>
+<url>http://www.rts.rs/</url>
+<icon src="http://phazer.info/img/kanali/rts1.jpg" />
+</channel>
+<channel id="rts2.sr">
+<display-name>RTS2</display-name>
+<url>http://www.rts.rs/</url>
+<icon src="http://phazer.info/img/kanali/rts2.jpg" />
+</channel>
+<channel id="b92.sr">
+<display-name>O2</display-name>
+<url>https://o2tv.rs</url>
+<icon src="http://phazer.info/img/kanali/b92.jpg" />
+</channel>
+<channel id="prva-srpska-tv.sr">
+<display-name>Prva</display-name>
+<url>http://www.prva.rs</url>
+<icon src="http://phazer.info/img/kanali/prva-srpska-tv.jpg" />
+</channel>
+<channel id="pink.sr">
+<display-name>PINK</display-name>
+<url>http://www.rtvpink.com</url>
+<icon src="http://phazer.info/img/kanali/pink.jpg" />
+</channel>
+<channel id="hbo.movie">
+<display-name>HBO</display-name>
+<url>http://www.hbo.hr</url>
+<icon src="http://phazer.info/img/kanali/hbo-b.jpg" />
+</channel>
+<channel id="cinestar-tv.movie">
+<display-name>CineStar TV</display-name>
+<url />
+<icon src="http://phazer.info/img/kanali/cinestar-tv.jpg" />
+</channel>
+<channel id="scifi.movie">
+<display-name>SciFi</display-name>
+<url>http://www.scifichannel.rs</url>
+<icon src="http://phazer.info/img/kanali/scifi.jpg" />
+</channel>
+<channel id="tv-arena-sport-1-hr.sport">
+<display-name>Arena Sport 1.hr</display-name>
+<url>http://www.tvarenasport.hr</url>
+<icon src="http://phazer.info/img/kanali/tv-arena-sport-1.jpg" />
+</channel>
+<channel id="sportklub-hr.sport">
+<display-name>SK1.hr</display-name>
+<url>http://www.sportklub.com.hr</url>
+<icon src="http://phazer.info/img/kanali/sk1.jpg" />
+</channel>
+<channel id="sport-klub.sport">
+<display-name>SK1.rs</display-name>
+<url>http://www.sportklub.rs</url>
+<icon src="http://phazer.info/img/kanali/sk1.jpg" />
+</channel>
+<channel id="tv-arena-sport-1.sport">
+<display-name>Arena Sport 1</display-name>
+<url>http://www.tvarenasport.com</url>
+<icon src="http://phazer.info/img/kanali/tv-arena-sport-1.jpg" />
+</channel>
+<channel id="arena-sport-1-ba.sport">
+<display-name>Arena Sport 1 BiH</display-name>
+<url>http://www.tvarenasport.com</url>
+<icon src="http://phazer.info/img/kanali/tv-arena-sport-1.jpg" />
+</channel>
+<channel id="eurosport.sport">
+<display-name>Eurosport</display-name>
+<url>http://tv.eurosport.com/</url>
+<icon src="http://phazer.info/img/kanali/eurosport.jpg" />
+</channel>
+<channel id="discovery-europe.doc">
+<display-name>Discovery Channel</display-name>
+<url>http://www.discoverychannel.co.uk</url>
+<icon src="http://phazer.info/img/kanali/discovery_channel.jpg" />
+</channel>
+<channel id="cmc.music">
+<display-name>CMC</display-name>
+<url>http://www.cmc.com.hr</url>
+<icon src="http://phazer.info/img/kanali/cmc.jpg" />
+</channel>
+<channel id="vh1-europe.music">
+<display-name>VH1 Europe</display-name>
+<url>http://www.vh1e.com</url>
+<icon src="http://phazer.info/img/kanali/vh1e.jpg" />
+</channel>
+<channel id="viva.music">
+<display-name>VIVA</display-name>
+<url>http://uk.viva.tv/tv-guide</url>
+<icon src="http://phazer.info/img/kanali/viva.jpg" />
+</channel>
+<channel id="cartoon-network.toons">
+<display-name>Cartoon Network</display-name>
+<url>http://schedule.cartoonnetwork.com/</url>
+<icon src="http://phazer.info/img/kanali/cartoon-network.jpg" />
+</channel>
+<channel id="disney-channel.toons">
+<display-name>Disney</display-name>
+<url>http://home.disney.go.com/tv/</url>
+<icon src="http://phazer.info/img/kanali/disney.jpg" />
+</channel>
+<channel id="kika.toons">
+<display-name>KiKa</display-name>
+<url>http://www.kika.de/sendungen/ipg/ipg102.html</url>
+<icon src="http://phazer.info/img/kanali/kika.jpg" />
+</channel>
+<channel id="al-jazeera-balkans.info">
+<display-name>Al Jazeera Balkans</display-name>
+<url>http://balkans.aljazeera.net</url>
+<icon src="http://phazer.info/img/kanali/al-jazeera.jpg" />
+</channel>
+<channel id="cnn.info">
+<display-name>CNN</display-name>
+<url>http://edition.cnn.com/CNNI/</url>
+<icon src="http://phazer.info/img/kanali/cnn.jpg" />
+</channel>
+<channel id="bloomberg.info">
+<display-name>Bloomberg</display-name>
+<url>http://www.bloomberg.com</url>
+<icon src="http://phazer.info/img/kanali/bloomberg.jpg" />
+</channel>
+<channel id="skynews.info">
+<display-name>SkyNews</display-name>
+<url>http://news.sky.com</url>
+<icon src="http://phazer.info/img/kanali/skynews.jpg" />
+</channel>
+<channel id="rtl.de.de">
+<display-name>RTL.de</display-name>
+<url>http://www.rtl.de</url>
+<icon src="http://phazer.info/img/kanali/rtl_de.jpg" />
+</channel>
+<channel id="rai-1.it">
+<display-name>RAI 1</display-name>
+<url>http://www.raiuno.rai.it</url>
+<icon src="http://phazer.info/img/kanali/rai1.jpg" />
+</channel>
+</tv>
